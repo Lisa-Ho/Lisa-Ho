@@ -1,4 +1,4 @@
-![alt text](https://github.com/Lisa-Ho/Lisa-Ho/blob/main/background-image.jpg)
+![alt text](https://github.com/Lisa-Ho/Lisa-Ho/blob/main/background-image2.jpg)
 
 ### Hello 👋
 
