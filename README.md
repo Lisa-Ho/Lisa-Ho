@@ -20,10 +20,10 @@ Connect with me on twitter or linkedin. Or drop me an email: info@inside-numbers
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2]
 
-[1.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/Github-readme-twitter-icon-small.png
+[1.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/Github-readme-twitter-icon.png
 [1]: https://twitter.com/LisaHornung_
 
-[2.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/Github-readme-linkedin-icon-small.png 
+[2.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/Github-readme-linkedin-icon.png 
 [2]: https://uk.linkedin.com/in/lisa-hornung-16136783
 
 
