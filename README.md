@@ -15,7 +15,7 @@ You can see what I am up to on my [website](www.inside-numbers.com).
 
 ### Connect with me 
 
-Connect with me on twitter or linkedin. Or drop me an [email](info@inside-numbers.com). 
+Connect with me on twitter or linkedin. Or drop me an (info@inside-numbers.com). 
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2]
