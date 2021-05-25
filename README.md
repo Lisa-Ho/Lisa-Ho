@@ -8,6 +8,7 @@ You can see what I am up to on my [website](www.inside-numbers.com).
 
 ### My latest blog posts
 
+- [Where to get data on charities in the UK](https://inside-numbers.com/where-to-get-data-on-charities-in-the-uk)
 - [Kneading to relax: exploring lockdown baking trends](https://inside-numbers.com/kneading-to-relax-exploring-lockdown-baking-trends)
 - [Exploring QGIS for visualising maps](https://inside-numbers.com/exploring-qgis-for-visualising-maps)
 - [Germany's most popular audio drama in numbers](https://inside-numbers.com/germanys-most-popular-audio-drama-in-numbers)
