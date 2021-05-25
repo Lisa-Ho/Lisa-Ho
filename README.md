@@ -12,7 +12,6 @@ You can see what I am up to on my [website](www.inside-numbers.com).
 - [Kneading to relax: exploring lockdown baking trends](https://inside-numbers.com/kneading-to-relax-exploring-lockdown-baking-trends)
 - [Exploring QGIS for visualising maps](https://inside-numbers.com/exploring-qgis-for-visualising-maps)
 - [Germany's most popular audio drama in numbers](https://inside-numbers.com/germanys-most-popular-audio-drama-in-numbers)
-- [Charity data: common issues with sector definitions](https://inside-numbers.com/charity-data-common-issues-with-sector-definitions)
 - [How to better communicate research - learnings from a redesign project](https://inside-numbers.com/how-to-better-communicate-research-learnings-from-a-redesign-project)
 
 ### Connect with me 
