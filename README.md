@@ -6,14 +6,18 @@ I am a data analyst currently helping the public and non-profit sector in the UK
 
 You can see what I am up to on my [website](www.inside-numbers.com) or checkout my [100 Days of Data Viz project](https://www.notion.so/inside-numbers/100-Days-of-Data-viz-5b717906c4a4475fb92f9503884078bc).
 
-### My latest blog posts
+### My latest blogs
 
 - [Six things I learned by tracking my plastic waste everyday in 2021](https://inside-numbers.com/six-things-i-learned-by-tracking-my-plastic-waste-everyday-in-2021)
 - [The best free tools for data viz and data for good](https://inside-numbers.com/the-best-free-tools-for-data-viz-and-data-for-good)
 - [Where to get data on charities in the UK](https://inside-numbers.com/where-to-get-data-on-charities-in-the-uk)
-- [Kneading to relax: exploring lockdown baking trends](https://inside-numbers.com/kneading-to-relax-exploring-lockdown-baking-trends)
 - [Exploring QGIS for visualising maps](https://inside-numbers.com/exploring-qgis-for-visualising-maps)
 - [Germany's most popular audio drama in numbers](https://inside-numbers.com/germanys-most-popular-audio-drama-in-numbers)
+
+### Streamlit apps
+
+- [Search Roulette](https://search-roulette.streamlit.app/): Visualising Google search autocomplete suggestions [[Code](https://github.com/liloho/google-search-autocomplete)]
+- [London Cycling](https://liloho-london-cycling-rates-app-kgvppz.streamlit.app/): Tile grid map of cycling rates in London [[Code](https://github.com/liloho/london-cycling-rates)]
 
 ### Connect with me 
 
