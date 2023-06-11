@@ -18,6 +18,7 @@ You can see what I am up to on my [website](www.inside-numbers.com) or checkout 
 
 - [Search Roulette](https://search-roulette.streamlit.app/): Visualising Google search autocomplete suggestions [[Code](https://github.com/liloho/google-search-autocomplete)]
 - [London Cycling](https://liloho-london-cycling-rates-app-kgvppz.streamlit.app/): Tile grid map of cycling rates in London [[Code](https://github.com/liloho/london-cycling-rates)]
+- [Global CO2 emissions](https://global-co2-emissions.streamlit.app/): Showcasing Streamlit's new table features (sparklines, progress bars, ..) [[Code](https://github.com/liloho/interactive-tables)]
 
 ### Connect with me 
 
