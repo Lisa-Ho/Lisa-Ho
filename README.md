@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-I am a data analyst currently helping the public sector in the UK to make most of data analytics and data science. I'm passionate about using data for good and in love with data visualisations. 
+I am a data designer currently helping the public sector in the UK to make most of data analytics and data science. I'm passionate about using data for good and in love with data visualisations. 
 
 You can see what I am up to on my [website](www.inside-numbers.com) or checkout my [100 Days of Data Viz project](https://www.notion.so/inside-numbers/100-Days-of-Data-viz-5b717906c4a4475fb92f9503884078bc).
 
