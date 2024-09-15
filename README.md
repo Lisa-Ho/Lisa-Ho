@@ -8,6 +8,7 @@ You can see what I am up to on my [website](www.inside-numbers.com) or checkout 
 
 ### My latest blogs
 
+- [New coders use AI in their work but fear what it means for their jobs](https://inside-numbers.quarto.pub/developer-survey-ai-usage-and-sentiment/)
 - [Six things I learned by tracking my plastic waste everyday in 2021](https://inside-numbers.com/six-things-i-learned-by-tracking-my-plastic-waste-everyday-in-2021)
 - [The best free tools for data viz and data for good](https://inside-numbers.com/the-best-free-tools-for-data-viz-and-data-for-good)
 - [Where to get data on charities in the UK](https://inside-numbers.com/where-to-get-data-on-charities-in-the-uk)
