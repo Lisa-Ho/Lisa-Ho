@@ -2,12 +2,13 @@
 
 ### Hello 👋
 
-I am a data viz/product designer currently helping local governments and cities to make most of AI-driven traffic data. I'm passionate about using data for good and in love with data visualisations. 
+I am a data viz/product designer currently helping local governments and cities to make most of AI-generated traffic data. I'm passionate about using data for good and in love with data visualisations. 
 
 You can see what I am up to on my [website](www.inside-numbers.com) or checkout my [100 Days of Data Viz project](https://www.notion.so/inside-numbers/100-Days-of-Data-viz-5b717906c4a4475fb92f9503884078bc).
 
 ### My latest blogs
 
+- [How to create storyboards for your product vision using generative AI](https://inside-numbers.com/how-to-create-storyboards-for-your-product-vision-using-generative-ai)
 - [New coders use AI in their work but fear what it means for their jobs](https://inside-numbers.quarto.pub/developer-survey-ai-usage-and-sentiment/)
 - [Six things I learned by tracking my plastic waste everyday in 2021](https://inside-numbers.com/six-things-i-learned-by-tracking-my-plastic-waste-everyday-in-2021)
 - [The best free tools for data viz and data for good](https://inside-numbers.com/the-best-free-tools-for-data-viz-and-data-for-good)
