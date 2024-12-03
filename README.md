@@ -20,21 +20,24 @@ You can see what I am up to on my [website](www.inside-numbers.com) or checkout 
 
 - [Search Roulette](https://search-roulette.streamlit.app/): Visualising Google search autocomplete suggestions [[Code](https://github.com/Lisa-Ho/google-search-autocomplete)]
 - [London Cycling](https://london-cycling-rates.streamlit.app/): Tile grid map of cycling rates in London [[Code](https://github.com/Lisa-Ho/london-cycling-rates)]
-<!--- [Global CO2 emissions](https://global-co2-emissions.streamlit.app/): Showcasing Streamlit's new table features (sparklines, progress bars, ..) [[Code](https://github.com/liloho/interactive-tables)]
+<!--- [Global CO2 emissions](https://global-co2-emissions.streamlit.app/): Showcasing Streamlit's new table features (sparklines, progress bars, ..) [[Code](https://github.com/liloho/interactive-tables)]-->
 
 ### Connect with me 
 
-Connect with me on twitter or linkedin. Or drop me an email: info@inside-numbers.com 
+Connect with me on Bluesky, LinkedIn, Mastodon, or drop me an email (info@inside-numbers.com).  
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-[1.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/Github-readme-twitter-icon.png
-[1]: https://twitter.com/LisaHornung_
+[1.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/README-bluesky-logo.png
+[1]: https://bsky.app/profile/lisahornung.bsky.social
 
-[2.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/Github-readme-linkedin-icon.png 
+[2.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/README-linkedin-logo.png
 [2]: https://uk.linkedin.com/in/lisa-hornung-16136783
 
+[3.1]: https://github.com/Lisa-Ho/Lisa-Ho/blob/main/README-mastodon-logo.png
+[3]: https://fosstodon.org/@LisaHornung
 
 <!--
 **Lisa-Ho/Lisa-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
