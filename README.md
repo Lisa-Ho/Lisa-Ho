@@ -4,7 +4,7 @@
 
 I am a data viz/product designer currently helping local governments and cities to make most of AI-generated traffic data. I'm passionate about using data for good and in love with data visualisations. 
 
-You can see what I am up to on my [website](www.inside-numbers.com) or checkout my [100 Days of Data Viz project](https://www.notion.so/inside-numbers/100-Days-of-Data-viz-5b717906c4a4475fb92f9503884078bc).
+You can see what I am up to on my [website](https://inside-numbers.com) or checkout my [100 Days of Data Viz project](https://www.notion.so/inside-numbers/100-Days-of-Data-viz-5b717906c4a4475fb92f9503884078bc).
 
 ### My latest blogs
 
