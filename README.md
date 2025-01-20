@@ -1,7 +1,7 @@
 <!-- ![alt text](https://github.com/Lisa-Ho/Lisa-Ho/blob/main/background-image2.jpg) -->
 
 
-![alt text](https://github.com/user-attachments/assets/5d23620e-b876-40e1-98c4-21498d5b2bec)
+![Banner_dataviz8b](https://github.com/user-attachments/assets/6822bed9-1599-4e3e-9cb2-252b81bcea9e)
 
 
 ### Hello 👋
