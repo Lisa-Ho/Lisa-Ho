@@ -6,7 +6,9 @@
 
 ### Hello 👋
 
-I am a data viz/product designer currently helping local governments and cities to make most of AI-generated traffic data. I'm passionate about using data for good and in love with data visualisations. 
+I'm a data visualiation designer and passionate about using data for good. 
+
+I work/have worked across different sectors (health, education, transport, social policy) for think tanks, charities, tech startups and research consultancies. 
 
 You can see what I am up to on my [website](https://inside-numbers.com) or checkout my [100 Days of Data Viz project](https://www.notion.so/inside-numbers/100-Days-of-Data-viz-5b717906c4a4475fb92f9503884078bc).
 
